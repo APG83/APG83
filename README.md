@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="./ALT-EF-FOUR-T-avatar.jpg" width="300" alt="ALT EF-FOUR(T) Hacker Logo">
+</p>
+  
 <div align="center">
 
 # ALT EF-FOUR(T)
